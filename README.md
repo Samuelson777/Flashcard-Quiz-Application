@@ -26,5 +26,5 @@ Here’s an example of how to use the application:
 - Select option 2 to take a quiz.
 - Answer the question presented by the application.
 
-## Example Screenshot of C++ Version(Console game)
+## Example Screenshot of C++ Console APP
 ![Flashcard Quiz Console Application Screenshot](https://github.com/user-attachments/assets/89782f4d-1292-4642-a77b-c91ddc4bbae7)
