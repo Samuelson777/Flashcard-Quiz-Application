@@ -28,3 +28,6 @@ Here’s an example of how to use the application:
 
 ## Example Screenshot of C++ Console APP
 ![Flashcard Quiz Console Application Screenshot](https://github.com/user-attachments/assets/89782f4d-1292-4642-a77b-c91ddc4bbae7)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Flashcard-Quiz-Application/blob/main/LICENSE) file for details.
